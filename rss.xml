@@ -5,21 +5,21 @@
     <link>https://x.com/i/lists/2079333021275050108</link>
     <description>IA</description>
     <language>en</language>
-    <atom:link href="https://github.com/DemetryusGuajara/Public_Files/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 00:07:36 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/DemetryusGuajara/Public_Files/refs/heads/main/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2026 00:12:09 GMT</lastBuildDate>
     <item>
-      <title>Publish once, ship every language</title>
-      <link>https://kamaan.io/blog/publish-once</link>
-      <guid isPermaLink="true">https://kamaan.io/blog/publish-once</guid>
+      <title>IA</title>
+      <link>https://x.com/i/lists/2079333021275050108</link>
+      <guid isPermaLink="true">https://x.com/i/lists/2079333021275050108</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-      <description>How auto-translation works.</description>
+      <description>IA</description>
     </item>
     <item>
-      <title>Correct hreflang, every time</title>
-      <link>https://kamaan.io/blog/hreflang</link>
-      <guid isPermaLink="true">https://kamaan.io/blog/hreflang</guid>
+      <title>IA</title>
+      <link>https://x.com/i/lists/2079333021275050108</link>
+      <guid isPermaLink="true">https://x.com/i/lists/2079333021275050108</guid>
       <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
-      <description>The reciprocal-tag problem, solved.</description>
+      <description>IA</description>
     </item>
   </channel>
 </rss>
