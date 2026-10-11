@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI</title>
+    <link>https://x.com/i/lists/2079333021275050108</link>
+    <description>IA</description>
+    <language>en</language>
+    <atom:link href="https://github.com/DemetryusGuajara/Public_Files/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2026 00:07:36 GMT</lastBuildDate>
+    <item>
+      <title>Publish once, ship every language</title>
+      <link>https://kamaan.io/blog/publish-once</link>
+      <guid isPermaLink="true">https://kamaan.io/blog/publish-once</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+      <description>How auto-translation works.</description>
+    </item>
+    <item>
+      <title>Correct hreflang, every time</title>
+      <link>https://kamaan.io/blog/hreflang</link>
+      <guid isPermaLink="true">https://kamaan.io/blog/hreflang</guid>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+      <description>The reciprocal-tag problem, solved.</description>
+    </item>
+  </channel>
+</rss>
